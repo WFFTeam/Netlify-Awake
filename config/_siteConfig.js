@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'World Folklore Festival',
+  tagline: 'Sanremo - Diano Marina - Cannes',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -18,6 +18,10 @@ export default {
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
+    {
+      name: 'Experience',
+      link: '/experience'
+    },
     {
       name: 'About',
       link: '/about'
