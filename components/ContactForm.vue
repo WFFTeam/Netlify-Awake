@@ -1,16 +1,10 @@
 <template>
-  <form name="Contact" netlify netlify-honeypot="bot-field" hidden>
-    <input type="text" name="name" />
-    <input type="text" name="email" />
-    <input type="text" name="subject" />
-    <input type="textarea" name="textarea" />
-
-  </form>
+  <form>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input name="email" class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" type="text" placeholder="John Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -21,7 +15,6 @@
       <label class="label is-medium">Email</label>
       <div class="control has-icons-left">
         <input
-          name="email"
           class="input is-medium"
           type="email"
           placeholder="you@email.com"
@@ -36,7 +29,6 @@
       <label class="label is-medium">Subject</label>
       <div class="control has-icons-left">
         <input
-          name="subject"
           class="input is-medium"
           type="text"
           placeholder="Brief Summary"
@@ -51,7 +43,6 @@
       <label class="label is-medium">Message</label>
       <div class="control">
         <textarea
-          name="textarea"
           class="textarea"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
