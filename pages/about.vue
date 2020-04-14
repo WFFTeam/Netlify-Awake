@@ -1,44 +1,43 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="About World Folklore Festival"
+      subtitle="Something about the festival and the team behind it"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>The Team</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Mission and Goal
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            We are proud in our mission to promote the values received from our forebearers, to conserve the rich cultural
+            tapestry we received from the generations before us.
+            Our goal is to present exotic cultures from all over the world, to improve interconnectedness and to create a new place
+            for all cultures, ethniticities, religions and creeds where they can share without discrimination their traditions,
+            where we can all explore and enjoy the picturesque show of dances, songs, costumes and colorful stories preserved though time.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>Our Team</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Our team is made of both veterans of cultural and tourist manifestations and young people dedicated
+            to the preservance of cultural heritages from all over the world.
+            We are professionals in what we do and we offer only the best to our participants!
+            Our team includes public officials of Diano Marina and different Italian organizations, wide array of volonteers
+            and students of College of Tourism of Belgrade, Serbia.
           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>Organization</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            The idea behind this manifestation was starting to emerge in the beginning of the 90ies.
+            The founder of this manifestation saw the need for cultural preservation and as already in the bussiness of tourism,
+            the idea to connect beautiful and pragmatic emerged.
+            Today we are proud to share that our members cover 4 continents, 100 countries and numerous organizations from all over
+            the world which are proud to be part of our family.
           </p>
         </div>
 
