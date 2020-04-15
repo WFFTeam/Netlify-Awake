@@ -1,7 +1,5 @@
 <template>
-  <form name="Contact" netlify netlify-honeypot="bot-field" hidden>
-    <input type="text" name="Name" />
-    <input type="text" name="Email" />
+  <form>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
