@@ -51,7 +51,7 @@
         <textarea
           class="textarea"
           placeholder="Detailed description of your comment, request, etc"
-          name="textarea"
+          name="message"
           rows="8"
         ></textarea>
       </div>
