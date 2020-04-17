@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'World Folklore Festival',
-  tagline: 'Sanremo - Diano Marina - Cannes',
+  tagline: 'Welcome to the website of World Folklore Festival Sanremo - Diano Marina - Cannes!',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
