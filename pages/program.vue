@@ -78,38 +78,78 @@
 		  <h3>Pricing</h3>
           <p>
             <strong>THE PRICE OF THE WHOLE PACKAGE IS 165 € per participant</strong>
-			
-			Package includes:
-			*	Lodgings in Diano Marina and San Bartolomeo al Mare 
-				(beautiful connected small towns) in 3* hotels in two-bed, three-bed and four-bed rooms with breakfast
+		  </p>
+		  <p>
+			<strong>Package includes:</strong>
+		  </p>
+		  <p>
+			•	Lodgings in Diano Marina and San Bartolomeo al Mare -
+				(beautiful connected small towns) in 3• hotels in two-bed, three-bed and four-bed rooms with breakfast
 				(Swedish table) and dinner
-			*	Services of permanent group guide
-			*	Festival participation
-			*	Organizer services
-			
-			Package <strong>DOES NOT</strong> include:
-			*	Transport of the groups
-			*	Parking for the buses (if and where it is needed).
-			*	Check point for entry into Monacco and Monte Carlo
-			*	Expenses of the international travel health insurance
-			*	Individual passenger's expenses
-			*	Extra payment for one-bed room
-			*	Expenses linked to the use of local buses for participants of the festival which will 	arrive by plane
-          </p>
+		  </p>
+		  <p>
+			•	Services of permanent group guide
+		  </p>
+		  <p>
+			•	Festival participation
+		  </p>
+		  <p>
+			•	Organizer services
+		  </p>
+		  <p>
+			<strong>Package DOES NOT include:</strong>
+		  </p>
+		  <p>
+			•	Transport of the groups
+		  </p>
+		  <p>
+			•	Parking for the buses (if and where it is needed)
+		  </p>
+		  <p>
+			•	Check point for entry into Monacco and Monte Carlo
+		  </p>
+		  <p>
+			•	Expenses of the international travel health insurance
+		  </p>
+		  <p>
+			•	Individual passenger's expenses
+		  </p>
+		  <p>
+			•	Extra payment for one-bed room
+		  </p>
+		  <p>
+			•	Expenses linked to the use of local buses for participants of the festival which will arrive by plane
+		  </p>
 		  <h3>Propositions of the festival</h3>
           <p>
-			*	All ensembles have to prepare three different programs in maximum duration of 12 minutes per program
-			*	It is necessary to bring a flag from the country you came from and to display it during the performance
+			•	All ensembles have to prepare three different programs in maximum duration of 12 minutes per program
+          </p>
+		  <p>
+			•	It is necessary to bring a flag from the country you came from and to display it during the performance
 				on the visible spot designated by the organizers
-			*	It is also necessary to bring a board with the name of the group and country from where the group comes from
-			*	Participating groups have to send 5 or 6 photographs and a video clip of the group's performance
-			*	Ensembles which don't have live music are required to bring a loudspeaker player on batteries for the performances in Sanremo, 
+		  </p>
+		  <p>
+			•	It is also necessary to bring a board with the name of the group and country from where the group comes from
+		  </p>
+		  <p>
+			•	Participating groups have to send 5 or 6 photographs and a video clip of the group's performance
+		  </p>
+		  <p>
+			•	Ensembles which don't have live music are required to bring a loudspeaker player on batteries for the performances in Sanremo,
 				Cannes and the defile in Diano Marina, so they can perform their choreographies on open air space
-			*	Organizer holds the right to change some of the Festival General Conditions of which the participants will be informed in period of 24h.
-			*	If you decide to participate in the festival, the organizer will send an official invitation letter
-			*	Upon receiving the invitation letter you are obliged to, within 15 days of confirmation to pay the expense of the organizers
+		  </p>
+		  <p>
+			•	Organizer holds the right to change some of the Festival General Conditions of which the participants will be informed in period of 24h.
+		  </p>
+		  <p>
+			•	If you decide to participate in the festival, the organizer will send an official invitation letter
+		  </p>
+		  <p>
+			•	Upon receiving the invitation letter you are obliged to, within 15 days of confirmation to pay the expense of the organizers
 				in the amount of 30% of the total sum
-			*	Remaining 70% of the sum the participants will pay upon arrival at the hotel
+		  </p>
+		  <p>
+			•	Remaining 70% of the sum the participants will pay upon arrival at the hotel
           </p>
           <quote-card />
         </div>
@@ -171,7 +211,7 @@ import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
-      title: `About | ${this.$siteConfig.siteName}`
+      title: `Program | ${this.$siteConfig.siteName}`
     }
   },
   components: { QuoteCard }
