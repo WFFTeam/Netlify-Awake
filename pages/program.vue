@@ -166,7 +166,7 @@
                 Sooo Cool
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <opti-image src="/uploads/cool-photo1.jpg" width="500" height="500" />
               </figure>
             </article>
           </div>
@@ -179,7 +179,7 @@
                 Just as cool
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <opti-image src="/uploads/cool-photo2.jpg" width="500" height="500" />
               </figure>
             </article>
           </div>
@@ -192,7 +192,7 @@
                 that is all
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <opti-image src="/uploads/cool-photo3.jpg" width="500" height="500" />
               </figure>
             </article>
           </div>
