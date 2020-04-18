@@ -18,14 +18,14 @@
             We are proud in our mission to promote the values received from our forebearers, to conserve the rich cultural
             tapestry we received from the generations before us.
             Our goal is to present exotic cultures from all over the world, to improve interconnectedness and to create a new place
-            for all cultures, ethniticities, religions and creeds where they can share without discrimination their traditions,
+            for all cultures, ethnicities, religions and creeds where they can share without discrimination their traditions,
             where we can all explore and enjoy the picturesque show of dances, songs, costumes and colorful stories preserved though time.
           </p>
 
           <h3>Our Team</h3>
           <p>
             Our team is made of both veterans of cultural and tourist manifestations and young people dedicated
-            to the preservance of cultural heritages from all over the world.
+            to preserving cultural heritage from all over the world.
             We are professionals in what we do and we offer only the best to our participants!
             Our team includes public officials of Diano Marina and different Italian organizations, wide array of volonteers
             and students of College of Tourism of Belgrade, Serbia.

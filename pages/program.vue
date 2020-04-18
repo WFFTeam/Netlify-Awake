@@ -3,7 +3,7 @@
     <site-hero
       title="Official program of the festival"
       subtitle="In-depth description of the locations, schedules and performances"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/program-festival.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -50,11 +50,12 @@
 		  </p>
 		  <p>
 			  <strong>2nd day –</strong> After the breakfast at 9 o'clock, facultative trip and sightseeing of enchanting
-			  French cities of Nice, Èze, Monaco and Monte Carlo. In afternoon hours there is a tour of a small, medieval town of Èze
-			  and the tour of  perfume factory Fragonard. After the tour we continue on the road to Nice, 
-			  the largest city and the pearl of Azure shore. After panoramic view of the city, trip through the Mason Square, 
-			  we are going for a visit to the Palace of Justice and flower market.
-			  We continue the trip onward to Monaco and Monte Carlo. The principality of Monacco and Monte Carlo is located
+			  French cities of Nice and Èze and a visit to principality of Monaco, Monte Carlo. 
+			  In afternoon hours there is a tour of a small, medieval town of Èze and the tour of  perfume factory Fragonard.
+			  After the tour we continue on the road to Nice, the largest city and the pearl of Azure shore.
+			  After panoramic view of the city, trip through the Mason Square, we are going for a visit
+			  to the Palace of Justice and flower market.
+			  We continue the trip onward to Monaco and Monte Carlo. The principality of Monaco and Monte Carlo is located
 			  between the Alps and the Mediterranean. These are mythical places which offer both dreams and reality.
 			  In the evening hours return to hotel.
 		  </p>
@@ -63,10 +64,11 @@
 			  At 10:30 is the departure to Sanremo and from 11:30 to 13h performance will be held with all the groups
 			  in the centre of pedestrian zone of Sanremo between world-famous theatre Ariston and Casino Sanremo. 
 			  At 13:30 we depart for Cannes. From 14:30 to 16:30 a performance will be held there with all of the groups
-			  on the world-renowned Croisette in front of a large audience. After that we return to the hotel, have a dinner and go to sleep	.
+			  on the world-renowned Croisette in front of a large audience.
+			  After that we return to the hotel, have a dinner and go to sleep.
 		  </p>
 		  <p>
-			  <strong>4th day –</strong> After the breakfast there will be enough time for the preparation of all the gtoups
+			  <strong>4th day –</strong> After the breakfast there will be enough time for the preparation of all the groups
 			  for the defile and the main performance on the stage in Diano Marina. Defile starts at 15h in the center of Diano Marina,
 			  after which, at 16h, a performance will be held on beautiful stage which is right next to the sea.
 			  After the performances of all the ensembles there will be an award ceremony and party for all the participants of the festival.
@@ -106,7 +108,7 @@
 			•	Parking for the buses (if and where it is needed)
 		  </p>
 		  <p>
-			•	Check point for entry into Monacco and Monte Carlo
+			•	Check point for entry into Monaco and Monte Carlo
 		  </p>
 		  <p>
 			•	Expenses of the international travel health insurance
