@@ -19,8 +19,8 @@ export default {
   },
   mainMenu: [
     {
-      name: 'Experience',
-      link: '/experience'
+      name: 'Program',
+      link: '/program'
     },
     {
       name: 'About',
