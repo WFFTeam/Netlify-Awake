@@ -100,6 +100,7 @@
 				in the amount of 30% of the total sum
 			•	Remaining 70% of the sum the participants will pay upon arrival at the hotel
           </p>
+          <quote-card />
         </div>
 
         <div class="tile is-ancestor">
@@ -155,6 +156,7 @@
   </div>
 </template>
 <script>
+import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
