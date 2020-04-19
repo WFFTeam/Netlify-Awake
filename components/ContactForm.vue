@@ -2,8 +2,12 @@
   <form
     name="Contact"
     method="post"
+	netlify-honeypot="bot-field"
     data-netlify="true"
     >
+	<p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </p>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
