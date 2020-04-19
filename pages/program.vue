@@ -166,8 +166,15 @@
                 Sooo Cool
               </p>
               <figure class="image is-1by1">
-                <img src="/uploads/cool-photo1.jpg" width="500" height="500" />
-              </figure>
+                <opti-image
+                  :src="require('~/assets/uploads/cool-photo1.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/cool-photo1.jpg').srcSet
+                  "
+				  :width="500"
+				  :height="500"
+                />              
+			  </figure>
             </article>
           </div>
           <div class="tile is-parent">
@@ -179,8 +186,15 @@
                 Just as cool
               </p>
               <figure class="image is-1by1">
-                <img src="/uploads/cool-photo2.jpg" width="500" height="500" />
-              </figure>
+                <opti-image
+                  :src="require('~/assets/uploads/cool-photo2.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/cool-photo2.jpg').srcSet
+                  "
+				  :width="500"
+				  :height="500"
+                />              
+			  </figure>
             </article>
           </div>
           <div class="tile is-parent">
@@ -192,7 +206,14 @@
                 that is all
               </p>
               <figure class="image is-1by1">
-                <img src="/uploads/cool-photo3.jpg" width="500" height="500" />
+                <opti-image
+                  :src="require('~/assets/uploads/cool-photo3.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/cool-photo3.jpg').srcSet
+                  "
+				  :width="500"
+				  :height="500"
+                />
               </figure>
             </article>
           </div>
