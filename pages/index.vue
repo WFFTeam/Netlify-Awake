@@ -10,7 +10,14 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
-        <!-- All Posts -->
+        <div class="content">
+          <p>
+            <strong>
+              Here you can find information, news, media and registration
+			  form for participation on the World Folklore Festival!
+            </strong>
+          </p>
+		<!-- All Posts -->
         <posts-grid />
       </template>
       <template v-slot:sidebar>
