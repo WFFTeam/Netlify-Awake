@@ -160,10 +160,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Folk Dance Group ROVESNIK
               </p>
               <p class="subtitle">
-                Sooo Cool
+                Dnipropetrovsk, Ukraine
               </p>
               <figure class="image is-1by1">
                 <opti-image
@@ -180,10 +180,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Folklore ensemble Gorna Banya
               </p>
               <p class="subtitle">
-                Just as cool
+                Sofia, Bulgaria
               </p>
               <figure class="image is-1by1">
                 <opti-image
@@ -200,10 +200,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Stage in Diano Marina
               </p>
               <p class="subtitle">
-                that is all
+                Beautiful stage by the sea
               </p>
               <figure class="image is-1by1">
                 <opti-image
