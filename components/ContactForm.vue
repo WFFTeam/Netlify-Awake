@@ -6,7 +6,7 @@
     data-netlify="true"
     >
 	<p class="hidden">
-    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
     </p>
     <!-- Name -->
     <div class="field">
