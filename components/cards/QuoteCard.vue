@@ -6,7 +6,7 @@
         most memorable experience you ever had.”
       </p>
       <p class="subtitle">
-        ~ Dragan Sajic, CEO
+        ~ Dragan Sajic, Director of the festival
       </p>
     </div>
     <footer class="card-footer">
