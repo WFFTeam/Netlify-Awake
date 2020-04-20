@@ -12,7 +12,7 @@ export default {
   siteName: 'World Folklore Festival',
   tagline: 'Welcome to the website of World Folklore Festival Sanremo - Diano Marina - Cannes!',
   featureImage: '/uploads/home-hero.jpg',
-  logo: '/uploads/logo.svg', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
